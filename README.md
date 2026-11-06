@@ -109,19 +109,3 @@ backpack uses a different address.
     clearly.
 -   Add filtering or averaging to reduce measurement noise.
 
-## Repository layout
-
-Keep the image in the same folder as this README so GitHub can display
-it:
-
-``` text
-your-repository/
-├── README.md
-├── my_ard.jpg
-└── your_arduino_sketch.ino
-```
-
-## License
-
-No license has been specified yet. Add a license file if you want to
-define how others may use, modify, and distribute this project.
